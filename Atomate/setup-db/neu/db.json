@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 12345,
+    "database": "neu",
+    "collection": "test",
+    "admin_user": "Hsin",
+    "admin_password": "Hsin",
+    "readonly_user": "Hsin_ro",
+    "readonly_password": "Hsin",
+    "aliases": {}
+}

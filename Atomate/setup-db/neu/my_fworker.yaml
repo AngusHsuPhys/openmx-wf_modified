@@ -1,0 +1,9 @@
+name: neu
+category: test
+query: '{}'
+env:
+  db_file: /home/j.tsai/config/project/icsd-test/test/db.json
+  openmx_dft_data_path: /home/j.tsai/openmx3.9_neu/DFT_DATA19
+  openmx_cmd: mpiexec -np 32 openmx
+  deeph_preprocess_cmd: singularity run -B `pwd`:/data /home/j.tsai/deeph-preprocess.sif
+scratch_dir:

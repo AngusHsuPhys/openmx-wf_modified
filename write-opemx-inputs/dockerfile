@@ -1,0 +1,20 @@
+# from python 3.9 base
+
+FROM python:3.9-slim
+
+# install git
+RUN apt-get update && apt-get install -y git gcc vim
+
+# cp the requirements file to the container and use pip to install the dependencies
+COPY requirements.txt requirements.txt
+RUN pip install -r requirements.txt
+
+# mkdir for the app "openmx"
+WORKDIR /openmx
+
+COPY DFT_DATA19 /openmx/DFT_DATA19
+COPY firetask.py /openmx/firetask.py
+
+COPY GaAs.vasp /openmx/GaAs.vasp
+
+COPY README.md /openmx/README.md

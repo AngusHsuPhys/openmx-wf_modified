@@ -1,0 +1,10 @@
+host: localhost
+logdir: /global/homes/a/angush/atomate_test/openmx-wf/Atomate/setting/logs
+name: mp-calcs
+password: Hsin
+port: 12345
+ssl_ca_file: null
+strm_lvl: INFO
+user_indices: []
+username: Hsin
+wf_user_indices: []

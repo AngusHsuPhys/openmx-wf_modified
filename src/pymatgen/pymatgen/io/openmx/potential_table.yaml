@@ -1,0 +1,415 @@
+- Precise: Kr10.0-s2p2d1f1
+  Quick: Kr10.0-s1p1
+  Standard: Kr10.0-s2p1d1
+  VPS: E
+  Valence electrons: 0.0
+- Precise: H7.0-s2p2d1
+  Quick: H5.0-s2
+  Standard: H6.0-s2p1
+  VPS: H_PBE19
+  Valence electrons: 1.0
+- Precise: He10.0-s2p2d1
+  Quick: He8.0-s1p1
+  Standard: He8.0-s2p1
+  VPS: He_PBE19
+  Valence electrons: 2.0
+- Precise: Li8.0-s3p2d1
+  Quick: Li8.0-s3p1
+  Standard: Li8.0-s3p2
+  VPS: Li_PBE19
+  Valence electrons: 3.0
+- Precise: Be7.0-s3p2d1
+  Quick: Be7.0-s2p1
+  Standard: Be7.0-s2p2
+  VPS: Be_PBE19
+  Valence electrons: 2.0
+- Precise: B7.0-s3p2d2
+  Quick: B7.0-s2p2
+  Standard: B7.0-s2p2d1
+  VPS: B_PBE19
+  Valence electrons: 3.0
+- Precise: C6.0-s3p2d2
+  Quick: C6.0-s2p2
+  Standard: C6.0-s2p2d1
+  VPS: C_PBE19
+  Valence electrons: 4.0
+- Precise: N6.0-s3p2d2
+  Quick: N6.0-s2p2
+  Standard: N6.0-s2p2d1
+  VPS: N_PBE19
+  Valence electrons: 5.0
+- Precise: O6.0-s3p2d2
+  Quick: O6.0-s2p2
+  Standard: O6.0-s2p2d1
+  VPS: O_PBE19
+  Valence electrons: 6.0
+- Precise: F6.0-s3p3d2f1
+  Quick: F6.0-s2p2
+  Standard: F6.0-s2p2d1
+  VPS: F_PBE19
+  Valence electrons: 7.0
+- Precise: Ne9.0-s3p2d2
+  Quick: Ne9.0-s2p2
+  Standard: Ne9.0-s2p2d1
+  VPS: Ne_PBE19
+  Valence electrons: 8.0
+- Precise: Na9.0-s3p2d2
+  Quick: Na9.0-s3p2
+  Standard: Na9.0-s3p2d1
+  VPS: Na_PBE19
+  Valence electrons: 9.0
+- Precise: Mg9.0-s3p2d2
+  Quick: Mg9.0-s2p2
+  Standard: Mg9.0-s3p2d1
+  VPS: Mg_PBE19
+  Valence electrons: 8.0
+- Precise: Al7.0-s3p2d2
+  Quick: Al7.0-s2p1d1
+  Standard: Al7.0-s2p2d1
+  VPS: Al_PBE19
+  Valence electrons: 3.0
+- Precise: Si7.0-s3p3d2
+  Quick: Si7.0-s2p1d1
+  Standard: Si7.0-s2p2d1
+  VPS: Si_PBE19
+  Valence electrons: 4.0
+- Precise: P7.0-s3p2d2f1
+  Quick: P7.0-s2p2d1
+  Standard: P7.0-s2p2d1f1
+  VPS: P_PBE19
+  Valence electrons: 5.0
+- Precise: S7.0-s3p2d2f1
+  Quick: S7.0-s2p2d1
+  Standard: S7.0-s2p2d1f1
+  VPS: S_PBE19
+  Valence electrons: 6.0
+- Precise: Cl7.0-s3p2d2f1
+  Quick: Cl7.0-s2p2d1
+  Standard: Cl7.0-s2p2d1f1
+  VPS: Cl_PBE19
+  Valence electrons: 7.0
+- Precise: Ar9.0-s3p2d2f1
+  Quick: Ar9.0-s2p2d1
+  Standard: Ar9.0-s2p2d1f1
+  VPS: Ar_PBE19
+  Valence electrons: 8.0
+- Precise: K10.0-s3p2d2
+  Quick: K10.0-s3p2
+  Standard: K10.0-s3p2d1
+  VPS: K_PBE19
+  Valence electrons: 9.0
+- Precise: Ca9.0-s3p2d2
+  Quick: Ca9.0-s3p2
+  Standard: Ca9.0-s3p2d1
+  VPS: Ca_PBE19
+  Valence electrons: 10.0
+- Precise: Sc9.0-s3p2d2
+  Quick: Sc9.0-s2p2d1
+  Standard: Sc9.0-s3p2d1
+  VPS: Sc_PBE19
+  Valence electrons: 11.0
+- Precise: Ti7.0-s3p2d2f1
+  Quick: Ti7.0-s2p2d1
+  Standard: Ti7.0-s3p2d1
+  VPS: Ti_PBE19
+  Valence electrons: 12.0
+- Precise: V6.0-s3p2d2f1
+  Quick: V6.0-s2p2d1
+  Standard: V6.0-s3p2d1
+  VPS: V_PBE19
+  Valence electrons: 13.0
+- Precise: Cr6.0-s3p2d2f1
+  Quick: Cr6.0-s2p2d1
+  Standard: Cr6.0-s3p2d1
+  VPS: Cr_PBE19
+  Valence electrons: 14.0
+- Precise: Mn6.0-s3p2d2f1
+  Quick: Mn6.0-s2p2d1
+  Standard: Mn6.0-s3p2d1
+  VPS: Mn_PBE19
+  Valence electrons: 15.0
+- Precise: Fe5.5H-s3p2d2f1
+  Quick: Fe5.5H-s2p2d1
+  Standard: Fe5.5H-s3p2d1
+  VPS: Fe_PBE19H
+  Valence electrons: 16.0
+- Precise: Fe6.0S-s3p2d2f1
+  Quick: Fe6.0S-s2p2d1
+  Standard: Fe6.0S-s3p2d1
+  VPS: Fe_PBE19S
+  Valence electrons: 14.0
+- Precise: Co6.0H-s3p2d2f1
+  Quick: Co6.0H-s2p2d1
+  Standard: Co6.0H-s3p2d1
+  VPS: Co_PBE19H
+  Valence electrons: 17.0
+- Precise: Co6.0S-s3p2d2f1
+  Quick: Co6.0S-s2p2d1
+  Standard: Co6.0S-s3p2d1
+  VPS: Co_PBE19S
+  Valence electrons: 15.0
+- Precise: Ni6.0H-s3p2d2f1
+  Quick: Ni6.0H-s2p2d1
+  Standard: Ni6.0H-s3p2d1
+  VPS: Ni_PBE19H
+  Valence electrons: 18.0
+- Precise: Ni6.0S-s3p2d2f1
+  Quick: Ni6.0S-s2p2d1
+  Standard: Ni6.0S-s3p2d1
+  VPS: Ni_PBE19S
+  Valence electrons: 16.0
+- Precise: Cu6.0H-s3p2d2f1
+  Quick: Cu6.0H-s2p2d1
+  Standard: Cu6.0H-s3p2d1
+  VPS: Cu_PBE19H
+  Valence electrons: 19.0
+- Precise: Cu6.0S-s3p2d2f1
+  Quick: Cu6.0S-s2p1d1
+  Standard: Cu6.0S-s3p2d1
+  VPS: Cu_PBE19S
+  Valence electrons: 11.0
+- Precise: Zn6.0H-s3p2d2f1
+  Quick: Zn6.0H-s2p2d1
+  Standard: Zn6.0H-s3p2d1
+  VPS: Zn_PBE19H
+  Valence electrons: 20.0
+- Precise: Zn6.0S-s3p2d2f1
+  Quick: Zn6.0S-s2p1d1
+  Standard: Zn6.0S-s3p2d1
+  VPS: Zn_PBE19S
+  Valence electrons: 12.0
+- Precise: Ga7.0-s3p2d2f1
+  Quick: Ga7.0-s2p2d1
+  Standard: Ga7.0-s3p2d2
+  VPS: Ga_PBE19
+  Valence electrons: 13.0
+- Precise: Ge7.0-s3p2d2f1
+  Quick: Ge7.0-s2p1d1
+  Standard: Ge7.0-s3p2d2
+  VPS: Ge_PBE19
+  Valence electrons: 4.0
+- Precise: As7.0-s3p2d2f1
+  Quick: As7.0-s3p2d1
+  Standard: As7.0-s3p2d2
+  VPS: As_PBE19
+  Valence electrons: 15.0
+- Precise: Se7.0-s3p2d2f1
+  Quick: Se7.0-s3p2d1
+  Standard: Se7.0-s3p2d2
+  VPS: Se_PBE19
+  Valence electrons: 6.0
+- Precise: Br7.0-s3p2d2f1
+  Quick: Br7.0-s3p2d1
+  Standard: Br7.0-s3p2d2
+  VPS: Br_PBE19
+  Valence electrons: 7.0
+- Precise: Kr10.0-s3p2d2f1
+  Quick: Kr10.0-s2p2d1
+  Standard: Kr10.0-s3p2d2
+  VPS: Kr_PBE19
+  Valence electrons: 8.0
+- Precise: Rb11.0-s3p2d2f1
+  Quick: Rb11.0-s2p2d1
+  Standard: Rb11.0-s3p2d2
+  VPS: Rb_PBE19
+  Valence electrons: 9.0
+- Precise: Sr10.0-s3p3d2f1
+  Quick: Sr10.0-s2p2d1
+  Standard: Sr10.0-s3p2d2
+  VPS: Sr_PBE19
+  Valence electrons: 10.0
+- Precise: Y10.0-s3p3d2f1
+  Quick: Y10.0-s3p2d1
+  Standard: Y10.0-s3p2d2
+  VPS: Y_PBE19
+  Valence electrons: 11.0
+- Precise: Zr7.0-s3p2d2f1
+  Quick: Zr7.0-s3p2d1
+  Standard: Zr7.0-s3p2d2
+  VPS: Zr_PBE19
+  Valence electrons: 12.0
+- Precise: Nb7.0-s3p2d2f1
+  Quick: Nb7.0-s3p2d1
+  Standard: Nb7.0-s3p2d2
+  VPS: Nb_PBE19
+  Valence electrons: 13.0
+- Precise: Mo7.0-s3p2d2f1
+  Quick: Mo7.0-s3p2d1
+  Standard: Mo7.0-s3p2d2
+  VPS: Mo_PBE19
+  Valence electrons: 14.0
+- Precise: Tc7.0-s3p2d2f1
+  Quick: Tc7.0-s3p2d1
+  Standard: Tc7.0-s3p2d2
+  VPS: Tc_PBE19
+  Valence electrons: 15.0
+- Precise: Ru7.0-s3p2d2f1
+  Quick: Ru7.0-s3p2d1
+  Standard: Ru7.0-s3p2d2
+  VPS: Ru_PBE19
+  Valence electrons: 14.0
+- Precise: Rh7.0-s3p2d2f1
+  Quick: Rh7.0-s3p2d1
+  Standard: Rh7.0-s3p2d2
+  VPS: Rh_PBE19
+  Valence electrons: 15.0
+- Precise: Pd7.0-s3p2d2f1
+  Quick: Pd7.0-s3p2d1
+  Standard: Pd7.0-s3p2d2
+  VPS: Pd_PBE19
+  Valence electrons: 16.0
+- Precise: Ag7.0-s3p2d2f1
+  Quick: Ag7.0-s3p2d1
+  Standard: Ag7.0-s3p2d2
+  VPS: Ag_PBE19
+  Valence electrons: 17.0
+- Precise: Cd7.0-s3p2d2f1
+  Quick: Cd7.0-s3p2d1
+  Standard: Cd7.0-s3p2d2
+  VPS: Cd_PBE19
+  Valence electrons: 12.0
+- Precise: In7.0-s3p2d2f1
+  Quick: In7.0-s3p2d1
+  Standard: In7.0-s3p2d2
+  VPS: In_PBE19
+  Valence electrons: 13.0
+- Precise: Sn7.0-s3p2d2f1
+  Quick: Sn7.0-s3p2d1
+  Standard: Sn7.0-s3p2d2
+  VPS: Sn_PBE19
+  Valence electrons: 14.0
+- Precise: Sb7.0-s3p2d2f1
+  Quick: Sb7.0-s3p2d1
+  Standard: Sb7.0-s3p2d2
+  VPS: Sb_PBE19
+  Valence electrons: 15.0
+- Precise: Te7.0-s3p3d2f1
+  Quick: Te7.0-s3p2d2
+  Standard: Te7.0-s3p2d2f1
+  VPS: Te_PBE19
+  Valence electrons: 16.0
+- Precise: I7.0-s3p3d2f1
+  Quick: I7.0-s3p2d2
+  Standard: I7.0-s3p2d2f1
+  VPS: I_PBE19
+  Valence electrons: 7.0
+- Precise: Xe11.0-s3p2d2f1
+  Quick: Xe11.0-s3p2d1
+  Standard: Xe11.0-s3p2d2
+  VPS: Xe_PBE19
+  Valence electrons: 8.0
+- Precise: Cs12.0-s3p2d2f1
+  Quick: Cs12.0-s3p2d1
+  Standard: Cs12.0-s3p2d2
+  VPS: Cs_PBE19
+  Valence electrons: 9.0
+- Precise: Ba10.0-s3p2d2f1
+  Quick: Ba10.0-s3p2d1
+  Standard: Ba10.0-s3p2d2
+  VPS: Ba_PBE19
+  Valence electrons: 10.0
+- Precise: La8.0-s3p3d2f1
+  Quick: La8.0-s3p2d1f1
+  Standard: La8.0-s3p2d2f1
+  VPS: La_PBE19
+  Valence electrons: 11.0
+- Precise: Ce8.0-s3p3d2f1
+  Quick: Ce8.0-s3p2d1f1
+  Standard: Ce8.0-s3p2d2f1
+  VPS: Ce_PBE19
+  Valence electrons: 12.0
+- Precise: Pr8.0-s3p3d2f1
+  Quick: Pr8.0-s3p2d1f1
+  Standard: Pr8.0-s3p2d2f1
+  VPS: Pr_PBE19
+  Valence electrons: 13.0
+- Precise: Nd8.0-s3p3d2f1
+  Quick: Nd8.0-s3p2d1f1
+  Standard: Nd8.0-s3p2d2f1
+  VPS: Nd_PBE19
+  Valence electrons: 14.0
+- Precise: Pm8.0-s3p3d2f1
+  Quick: Pm8.0-s3p2d1f1
+  Standard: Pm8.0-s3p2d2f1
+  VPS: Pm_PBE19
+  Valence electrons: 15.0
+- Precise: Sm8.0-s3p3d2f1
+  Quick: Sm8.0-s3p2d1f1
+  Standard: Sm8.0-s3p2d2f1
+  VPS: Sm_PBE19
+  Valence electrons: 16.0
+- Precise: Dy8.0-s3p3d2f1
+  Quick: Dy8.0-s3p2d1f1
+  Standard: Dy8.0-s3p2d2f1
+  VPS: Dy_PBE19
+  Valence electrons: 20.0
+- Precise: Ho8.0-s3p3d2f1
+  Quick: Ho8.0-s3p2d1f1
+  Standard: Ho8.0-s3p2d2f1
+  VPS: Ho_PBE19
+  Valence electrons: 21.0
+- Precise: Lu8.0-s3p3d2f1
+  Quick: Lu8.0-s3p2d2
+  Standard: Lu8.0-s3p2d2f1
+  VPS: Lu_PBE19
+  Valence electrons: 11.0
+- Precise: Hf9.0-s3p3d2f1
+  Quick: Hf9.0-s3p2d2
+  Standard: Hf9.0-s3p2d2f1
+  VPS: Hf_PBE19
+  Valence electrons: 12.0
+- Precise: Ta7.0-s3p3d2f1
+  Quick: Ta7.0-s3p2d2
+  Standard: Ta7.0-s3p2d2f1
+  VPS: Ta_PBE19
+  Valence electrons: 13.0
+- Precise: W7.0-s3p3d2f1
+  Quick: W7.0-s3p2d2
+  Standard: W7.0-s3p2d2f1
+  VPS: W_PBE19
+  Valence electrons: 12.0
+- Precise: Re7.0-s3p3d2f1
+  Quick: Re7.0-s3p2d2
+  Standard: Re7.0-s3p2d2f1
+  VPS: Re_PBE19
+  Valence electrons: 15.0
+- Precise: Os7.0-s3p3d2f1
+  Quick: Os7.0-s3p2d2
+  Standard: Os7.0-s3p2d2f1
+  VPS: Os_PBE19
+  Valence electrons: 14.0
+- Precise: Ir7.0-s3p3d2f1
+  Quick: Ir7.0-s3p2d2
+  Standard: Ir7.0-s3p2d2f1
+  VPS: Ir_PBE19
+  Valence electrons: 15.0
+- Precise: Pt7.0-s3p3d2f1
+  Quick: Pt7.0-s3p2d2
+  Standard: Pt7.0-s3p2d2f1
+  VPS: Pt_PBE19
+  Valence electrons: 16.0
+- Precise: Au7.0-s3p3d2f1
+  Quick: Au7.0-s3p2d2
+  Standard: Au7.0-s3p2d2f1
+  VPS: Au_PBE19
+  Valence electrons: 17.0
+- Precise: Hg8.0-s3p3d2f1
+  Quick: Hg8.0-s3p2d2
+  Standard: Hg8.0-s3p2d2f1
+  VPS: Hg_PBE19
+  Valence electrons: 18.0
+- Precise: Tl8.0-s3p3d2f1
+  Quick: Tl8.0-s3p2d2
+  Standard: Tl8.0-s3p2d2f1
+  VPS: Tl_PBE19
+  Valence electrons: 19.0
+- Precise: Pb8.0-s3p3d2f1
+  Quick: Pb8.0-s3p2d2
+  Standard: Pb8.0-s3p2d2f1
+  VPS: Pb_PBE19
+  Valence electrons: 14.0
+- Precise: Bi8.0-s3p3d2f1
+  Quick: Bi8.0-s3p2d2
+  Standard: Bi8.0-s3p2d2f1
+  VPS: Bi_PBE19
+  Valence electrons: 15.0

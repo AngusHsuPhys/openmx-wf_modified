@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 12345,
+    "database": "SrGeSi",
+    "collection": "20230805-training_data",
+    "admin_user": "Hsin",
+    "admin_password": "Hsin",
+    "readonly_user": "Hsin_ro",
+    "readonly_password": "Hsin",
+    "aliases": {}
+}

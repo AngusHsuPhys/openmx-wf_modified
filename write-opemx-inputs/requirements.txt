@@ -1,0 +1,4 @@
+ase==3.22.1
+-e git+https://github.com/tsaie79/atomate.git@61dec7d321dae7740a5b17a667a0d6bd5e661967#egg=atomate
+-e git+https://github.com/tsaie79/pymatgen.git@134e351ff4fa02b73e71e9c12e518154400b6d82#egg=pymatgen
+

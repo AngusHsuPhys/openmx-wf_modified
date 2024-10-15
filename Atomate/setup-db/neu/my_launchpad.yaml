@@ -1,0 +1,10 @@
+host: localhost
+logdir: /home/j.tsai/software/atomate/logs
+name: icsd-test
+password: Hsin
+port: 12345
+ssl_ca_file: null
+strm_lvl: INFO
+user_indices: []
+username: Hsin
+wf_user_indices: []

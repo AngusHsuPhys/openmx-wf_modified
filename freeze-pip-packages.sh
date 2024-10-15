@@ -1,0 +1,1 @@
+pip freeze > /workspaces/openmx-wf/requirements.txt

@@ -1,0 +1,14 @@
+_fw_name: CommonAdapter
+_fw_q_type: SLURM
+_fw_template_file: /home/j.tsai/config/queue_template.slurm
+rocket_launch: rlaunch -c /home/j.tsai/config singleshot > out
+nodes: 1
+ntasks_per_node: 32
+walltime: 00:30:00
+queue: short
+job_name: test
+pre_rocket: module load singularity  #\necho '110' >> OPTCELL"
+post_rocket: null
+constraint: cascadelake
+mem: 100G
+logdir: /home/j.tsai/software/atomate/logs

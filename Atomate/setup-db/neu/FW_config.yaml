@@ -1,0 +1,3 @@
+CONFIG_FILE_DIR: /home/j.tsai/software/atomate/config
+WEBSERVER_HOST: "localhost"
+EXCEPT_DETAILS_ON_RERUN: True

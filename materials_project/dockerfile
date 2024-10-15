@@ -1,0 +1,7 @@
+# use python 3.9 as the base image
+FROM python:3.9
+
+# install the required python packages 
+RUN pip install mp-api
+
+ENTRYPOINT [ "/bin/bash" ]

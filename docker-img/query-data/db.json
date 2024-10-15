@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 27017,
+    "database": "icsd-test",
+    "collection": "test",
+    "admin_user": "Hsin",
+    "admin_password": "Hsin",
+    "readonly_user": "Hsin_ro",
+    "readonly_password": "Hsin",
+    "aliases": {}
+}

@@ -1,0 +1,189 @@
+system:
+  system_current_dir: "./"
+  hs_fileout: true
+  level_of_stdout: 1
+  level_of_fileout: 1
+
+species:
+  vpss_and_options:
+    Ag:
+      Ag_PBE19: Standard
+    Al:
+      Al_PBE19: Standard
+    Ar:
+      Ar_PBE19: Standard
+    As:
+      As_PBE19: Standard
+    Au:
+      Au_PBE19: Standard
+    B:
+      B_PBE19: Standard
+    Ba:
+      Ba_PBE19: Standard
+    Be:
+      Be_PBE19: Standard
+    Bi:
+      Bi_PBE19: Standard
+    Br:
+      Br_PBE19: Standard
+    C:
+      C_PBE19: Standard
+    Ca:
+      Ca_PBE19: Standard
+    Cd:
+      Cd_PBE19: Standard
+    Ce:
+      Ce_PBE19: Standard
+    Cl:
+      Cl_PBE19: Standard
+    Co:
+      Co_PBE19S: Standard
+    Cr:
+      Cr_PBE19: Standard
+    Cs:
+      Cs_PBE19: Standard
+    Cu:
+      Cu_PBE19S: Standard
+    Dy:
+      Dy_PBE19: Standard
+    E:
+      E: Standard
+    F:
+      F_PBE19: Standard
+    Fe:
+      Fe_PBE19S: Standard
+    Ga:
+      Ga_PBE19: Standard
+    Ge:
+      Ge_PBE19: Standard
+    H:
+      H_PBE19: Standard
+    He:
+      He_PBE19: Standard
+    Hf:
+      Hf_PBE19: Standard
+    Hg:
+      Hg_PBE19: Standard
+    Ho:
+      Ho_PBE19: Standard
+    I:
+      I_PBE19: Standard
+    In:
+      In_PBE19: Standard
+    Ir:
+      Ir_PBE19: Standard
+    K:
+      K_PBE19: Standard
+    Kr:
+      Kr_PBE19: Standard
+    La:
+      La_PBE19: Standard
+    Li:
+      Li_PBE19: Standard
+    Lu:
+      Lu_PBE19: Standard
+    Mg:
+      Mg_PBE19: Standard
+    Mn:
+      Mn_PBE19: Standard
+    Mo:
+      Mo_PBE19: Standard
+    N:
+      N_PBE19: Standard
+    Na:
+      Na_PBE19: Standard
+    Nb:
+      Nb_PBE19: Standard
+    Nd:
+      Nd_PBE19: Standard
+    Ne:
+      Ne_PBE19: Standard
+    Ni:
+      Ni_PBE19S: Standard
+    O:
+      O_PBE19: Standard
+    Os:
+      Os_PBE19: Standard
+    P:
+      P_PBE19: Standard
+    Pb:
+      Pb_PBE19: Standard
+    Pd:
+      Pd_PBE19: Standard
+    Pm:
+      Pm_PBE19: Standard
+    Pr:
+      Pr_PBE19: Standard
+    Pt:
+      Pt_PBE19: Standard
+    Rb:
+      Rb_PBE19: Standard
+    Re:
+      Re_PBE19: Standard
+    Rh:
+      Rh_PBE19: Standard
+    Ru:
+      Ru_PBE19: Standard
+    S:
+      S_PBE19: Standard
+    Sb:
+      Sb_PBE19: Standard
+    Sc:
+      Sc_PBE19: Standard
+    Se:
+      Se_PBE19: Standard
+    Si:
+      Si_PBE19: Standard
+    Sm:
+      Sm_PBE19: Standard
+    Sn:
+      Sn_PBE19: Standard
+    Sr:
+      Sr_PBE19: Standard
+    Ta:
+      Ta_PBE19: Standard
+    Tc:
+      Tc_PBE19: Standard
+    Te:
+      Te_PBE19: Standard
+    Ti:
+      Ti_PBE19: Standard
+    Tl:
+      Tl_PBE19: Standard
+    V:
+      V_PBE19: Standard
+    W:
+      W_PBE19: Standard
+    Xe:
+      Xe_PBE19: Standard
+    Y:
+      Y_PBE19: Standard
+    Zn:
+      Zn_PBE19S: Standard
+    Zr:
+      Zr_PBE19: Standard
+
+scf:
+  kppa: 64
+  force_gamma: false
+  xc_type: "GGA-PBE"
+  spin_polarization: "off"
+  eigenvalue_solver: "Band"
+  mixing_type: "Simple"
+  spin_orbit_coupling: false
+  electronic_temperature: 300
+  energy_cutoff: 200
+  max_iter: 40
+  init_mixing_weight: 0.30
+  min_mixing_weight: 0.001
+  max_mixing_weight: 0.40
+  mixing_history: 5
+  start_pulay: 6
+  every_pulay: 6
+  criterion: 1.0e-6
+
+md:
+  md_type: nomd
+  md_max_iter: 1
+  md_time_step: 0.5
+  md_opt_criterion: 1.0e-4
