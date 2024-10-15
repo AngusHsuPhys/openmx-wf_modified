@@ -1,7 +1,13 @@
-# use python 3.9 as the base image
 FROM python:3.9
 
-# install the required python packages 
-RUN pip install mp-api
+# install the required python packages
+RUN pip install mp-api==0.40.1
+
+# copy your mp.py script into the container
+COPY mp.py /app/mp.py
+
+# set the working directory
+WORKDIR /app
+
 
 ENTRYPOINT [ "/bin/bash" ]
